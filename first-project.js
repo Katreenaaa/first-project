@@ -11,4 +11,3 @@ function fizzBuzz(max){
 
 fizzBuzz(10);
 fizzBuzz(20);
-fizzBuzz(30);
